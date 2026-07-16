@@ -1,0 +1,13 @@
+{
+  "type": "content",
+  "modid": "eanasiryield",
+  "name": "Ea-Nasir Yield",
+  "authors": [
+    "Mauricio Nestor"
+  ],
+  "description": "Adds an insulting copper ore grade below poor. Ea-Nasir ore chunks yield one copper nugget.",
+  "version": "0.1.0",
+  "dependencies": {
+    "game": "1.22.0"
+  }
+}
