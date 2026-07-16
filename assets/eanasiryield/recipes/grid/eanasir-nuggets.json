@@ -1,0 +1,47 @@
+[
+  {
+    "__comment": "The output item and quantity are resolved in ItemNugget.OnCreatedByCrafting from the ore attributes.",
+    "ingredientPattern": "H\tS",
+    "ingredients": {
+      "H": {
+        "type": "item",
+        "code": "hammer-*",
+        "isTool": true
+      },
+      "S": {
+        "type": "item",
+        "name": "ore",
+        "code": "ore-eanasir-*"
+      }
+    },
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "nugget-nativecopper",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "H\tS",
+    "ingredients": {
+      "H": {
+        "type": "item",
+        "code": "hammer-*",
+        "isTool": true
+      },
+      "S": {
+        "type": "item",
+        "name": "ore",
+        "code": "crystalizedore-eanasir-*"
+      }
+    },
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "nugget-nativecopper",
+      "quantity": 1
+    }
+  }
+]
