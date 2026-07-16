@@ -1,10 +1,24 @@
 {
-  "oregrade-eanasir": "Qualidade Ea-Nasir",
-  "ore-grade-eanasir": "Qualidade Ea-Nasir",
-  "block-ore-eanasir-nativecopper-*": "Cobre nativo qualidade Ea-Nasir",
-  "item-ore-eanasir-nativecopper-*": "Cobre nativo qualidade Ea-Nasir",
-  "item-crystalizedore-eanasir-nativecopper-*": "Cobre nativo cristalizado qualidade Ea-Nasir",
-  "block-ore-eanasir-malachite-*": "Malaquita qualidade Ea-Nasir",
-  "item-ore-eanasir-malachite-*": "Malaquita qualidade Ea-Nasir",
-  "item-crystalizedore-eanasir-malachite-*": "Malaquita cristalizada qualidade Ea-Nasir"
+  "oregrade-eanasir": "Ea-Nasir",
+  "ore-grade-eanasir": "Qualidade: Ea-Nasir",
+  "eanasir-ore-chunk": "Pedaço Ea-Nasir de {0}",
+  "eanasir-crystallizedore-chunk": "Pedaço cristalizado Ea-Nasir de {0}",
+
+  "block-ore-eanasir-nativecopper-andesite": "Minério de cobre nativo (qualidade Ea-Nasir)",
+  "block-ore-eanasir-nativecopper-granite": "Minério de cobre nativo (qualidade Ea-Nasir)",
+  "block-ore-eanasir-nativecopper-basalt": "Minério de cobre nativo (qualidade Ea-Nasir)",
+  "block-ore-eanasir-nativecopper-peridotite": "Minério de cobre nativo (qualidade Ea-Nasir)",
+  "block-ore-eanasir-nativecopper-claystone": "Minério de cobre nativo (qualidade Ea-Nasir)",
+  "block-ore-eanasir-nativecopper-sandstone": "Minério de cobre nativo (qualidade Ea-Nasir)",
+  "block-ore-eanasir-nativecopper-shale": "Minério de cobre nativo (qualidade Ea-Nasir)",
+  "block-ore-eanasir-nativecopper-chalk": "Minério de cobre nativo (qualidade Ea-Nasir)",
+  "block-ore-eanasir-nativecopper-chert": "Minério de cobre nativo (qualidade Ea-Nasir)",
+  "block-ore-eanasir-nativecopper-conglomerate": "Minério de cobre nativo (qualidade Ea-Nasir)",
+  "block-ore-eanasir-nativecopper-phyllite": "Minério de cobre nativo (qualidade Ea-Nasir)",
+  "block-ore-eanasir-nativecopper-slate": "Minério de cobre nativo (qualidade Ea-Nasir)",
+
+  "block-ore-eanasir-malachite-limestone": "Minério de malaquita (qualidade Ea-Nasir)",
+  "block-ore-eanasir-malachite-redmarble": "Minério de malaquita (qualidade Ea-Nasir)",
+  "block-ore-eanasir-malachite-greenmarble": "Minério de malaquita (qualidade Ea-Nasir)",
+  "block-ore-eanasir-malachite-whitemarble": "Minério de malaquita (qualidade Ea-Nasir)"
 }
