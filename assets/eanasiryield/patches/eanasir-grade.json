@@ -1,0 +1,517 @@
+[
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/variantgroups/0/states/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/variantgroups/0/states/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/variantgroups/0/states/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/ore-eanasir-*",
+    "value": 5
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/attributes/metalUnitsByType/*-eanasir-*",
+    "value": 10
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/shapeByType",
+    "value": {
+      "ore-eanasir-nativecopper-*": {
+        "base": "game:item/ore/poor/nativecopper"
+      },
+      "ore-eanasir-malachite-*": {
+        "base": "game:item/ore/poor/malachite"
+      },
+      "*": {
+        "base": "game:item/ore/{grade}/{ore}"
+      }
+    }
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/shapeByType",
+    "value": {
+      "crystalizedore-eanasir-*": {
+        "base": "game:item/ore/crystalized/poor"
+      },
+      "*": {
+        "base": "game:item/ore/crystalized/{grade}"
+      }
+    }
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-andesite"
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-andesite"
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "crystalizedore-eanasir-nativecopper-andesite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-granite"
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-granite"
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "crystalizedore-eanasir-nativecopper-granite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-basalt"
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-basalt"
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "crystalizedore-eanasir-nativecopper-basalt"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-peridotite"
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-peridotite"
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "crystalizedore-eanasir-nativecopper-peridotite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-claystone"
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-claystone"
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "crystalizedore-eanasir-nativecopper-claystone"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-sandstone"
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-sandstone"
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "crystalizedore-eanasir-nativecopper-sandstone"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-shale"
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-shale"
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "crystalizedore-eanasir-nativecopper-shale"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-chalk"
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-chalk"
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "crystalizedore-eanasir-nativecopper-chalk"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-chert"
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-chert"
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "crystalizedore-eanasir-nativecopper-chert"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-conglomerate"
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-conglomerate"
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "crystalizedore-eanasir-nativecopper-conglomerate"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-phyllite"
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-phyllite"
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "crystalizedore-eanasir-nativecopper-phyllite"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-slate"
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-nativecopper-slate"
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "crystalizedore-eanasir-nativecopper-slate"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-malachite-limestone"
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-malachite-limestone"
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "crystalizedore-eanasir-malachite-limestone"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-malachite-redmarble"
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-malachite-redmarble"
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "crystalizedore-eanasir-malachite-redmarble"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-malachite-greenmarble"
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-malachite-greenmarble"
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "crystalizedore-eanasir-malachite-greenmarble"
+  },
+  {
+    "file": "game:blocktypes/stone/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-malachite-whitemarble"
+  },
+  {
+    "file": "game:itemtypes/resource/ore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "ore-eanasir-malachite-whitemarble"
+  },
+  {
+    "file": "game:itemtypes/resource/crystalizedore-graded.json",
+    "op": "add",
+    "path": "/allowedVariants/-",
+    "value": "crystalizedore-eanasir-malachite-whitemarble"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/0/attributes/placeblock/allowedVariantsByInBlock/rock-andesite/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/0/attributes/placeblock/allowedVariantsByInBlock/rock-granite/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/0/attributes/placeblock/allowedVariantsByInBlock/rock-basalt/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/0/attributes/placeblock/allowedVariantsByInBlock/rock-peridotite/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/0/attributes/placeblock/allowedVariantsByInBlock/rock-claystone/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/0/attributes/placeblock/allowedVariantsByInBlock/rock-sandstone/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/0/attributes/placeblock/allowedVariantsByInBlock/rock-shale/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/0/attributes/placeblock/allowedVariantsByInBlock/rock-chalk/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/0/attributes/placeblock/allowedVariantsByInBlock/rock-chert/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/0/attributes/placeblock/allowedVariantsByInBlock/rock-conglomerate/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/0/attributes/placeblock/allowedVariantsByInBlock/rock-phyllite/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/0/attributes/placeblock/allowedVariantsByInBlock/rock-slate/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/1/attributes/placeblock/allowedVariantsByInBlock/rock-andesite/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/1/attributes/placeblock/allowedVariantsByInBlock/rock-granite/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/1/attributes/placeblock/allowedVariantsByInBlock/rock-basalt/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/1/attributes/placeblock/allowedVariantsByInBlock/rock-peridotite/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/1/attributes/placeblock/allowedVariantsByInBlock/rock-claystone/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/1/attributes/placeblock/allowedVariantsByInBlock/rock-sandstone/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/1/attributes/placeblock/allowedVariantsByInBlock/rock-shale/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/1/attributes/placeblock/allowedVariantsByInBlock/rock-chalk/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/1/attributes/placeblock/allowedVariantsByInBlock/rock-chert/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/1/attributes/placeblock/allowedVariantsByInBlock/rock-conglomerate/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/1/attributes/placeblock/allowedVariantsByInBlock/rock-phyllite/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "op": "add",
+    "path": "/1/attributes/placeblock/allowedVariantsByInBlock/rock-slate/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/malachite.json",
+    "op": "add",
+    "path": "/0/attributes/placeblock/allowedVariantsByInBlock/rock-limestone/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/malachite.json",
+    "op": "add",
+    "path": "/0/attributes/placeblock/allowedVariantsByInBlock/rock-redmarble/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/malachite.json",
+    "op": "add",
+    "path": "/0/attributes/placeblock/allowedVariantsByInBlock/rock-greenmarble/0",
+    "value": "eanasir"
+  },
+  {
+    "file": "game:worldgen/deposits/metalore/malachite.json",
+    "op": "add",
+    "path": "/0/attributes/placeblock/allowedVariantsByInBlock/rock-whitemarble/0",
+    "value": "eanasir"
+  }
+]
