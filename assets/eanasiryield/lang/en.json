@@ -1,10 +1,24 @@
 {
-  "oregrade-eanasir": "Ea-Nasir grade",
-  "ore-grade-eanasir": "Ea-Nasir grade",
-  "block-ore-eanasir-nativecopper-*": "Ea-Nasir grade native copper",
-  "item-ore-eanasir-nativecopper-*": "Ea-Nasir grade native copper",
-  "item-crystalizedore-eanasir-nativecopper-*": "Crystallized Ea-Nasir grade native copper",
-  "block-ore-eanasir-malachite-*": "Ea-Nasir grade malachite",
-  "item-ore-eanasir-malachite-*": "Ea-Nasir grade malachite",
-  "item-crystalizedore-eanasir-malachite-*": "Crystallized Ea-Nasir grade malachite"
+  "oregrade-eanasir": "Ea-Nasir",
+  "ore-grade-eanasir": "Quality: Ea-Nasir",
+  "eanasir-ore-chunk": "Ea-Nasir chunk of {0}",
+  "eanasir-crystallizedore-chunk": "Crystallized Ea-Nasir chunk of {0}",
+
+  "block-ore-eanasir-nativecopper-andesite": "Native copper ore (Ea-Nasir quality)",
+  "block-ore-eanasir-nativecopper-granite": "Native copper ore (Ea-Nasir quality)",
+  "block-ore-eanasir-nativecopper-basalt": "Native copper ore (Ea-Nasir quality)",
+  "block-ore-eanasir-nativecopper-peridotite": "Native copper ore (Ea-Nasir quality)",
+  "block-ore-eanasir-nativecopper-claystone": "Native copper ore (Ea-Nasir quality)",
+  "block-ore-eanasir-nativecopper-sandstone": "Native copper ore (Ea-Nasir quality)",
+  "block-ore-eanasir-nativecopper-shale": "Native copper ore (Ea-Nasir quality)",
+  "block-ore-eanasir-nativecopper-chalk": "Native copper ore (Ea-Nasir quality)",
+  "block-ore-eanasir-nativecopper-chert": "Native copper ore (Ea-Nasir quality)",
+  "block-ore-eanasir-nativecopper-conglomerate": "Native copper ore (Ea-Nasir quality)",
+  "block-ore-eanasir-nativecopper-phyllite": "Native copper ore (Ea-Nasir quality)",
+  "block-ore-eanasir-nativecopper-slate": "Native copper ore (Ea-Nasir quality)",
+
+  "block-ore-eanasir-malachite-limestone": "Malachite ore (Ea-Nasir quality)",
+  "block-ore-eanasir-malachite-redmarble": "Malachite ore (Ea-Nasir quality)",
+  "block-ore-eanasir-malachite-greenmarble": "Malachite ore (Ea-Nasir quality)",
+  "block-ore-eanasir-malachite-whitemarble": "Malachite ore (Ea-Nasir quality)"
 }
