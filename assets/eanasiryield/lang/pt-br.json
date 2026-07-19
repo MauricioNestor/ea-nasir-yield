@@ -3,6 +3,8 @@
   "ore-grade-eanasir": "Qualidade: Ea-Nasir",
   "eanasir-ore-chunk": "Pedaço Ea-Nasir de {0}",
   "eanasir-crystallizedore-chunk": "Pedaço cristalizado Ea-Nasir de {0}",
+  "item-eanasir-ore-chunk": "Pedaço Ea-Nasir de {0}",
+  "item-eanasir-crystallizedore-chunk": "Pedaço cristalizado Ea-Nasir de {0}",
 
   "block-ore-eanasir-nativecopper-andesite": "Minério de cobre nativo (qualidade Ea-Nasir)",
   "block-ore-eanasir-nativecopper-granite": "Minério de cobre nativo (qualidade Ea-Nasir)",
