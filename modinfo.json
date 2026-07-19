@@ -6,7 +6,7 @@
     "Mauricio Nestor"
   ],
   "description": "Adds an insulting copper ore grade below poor. Ea-Nasir ore chunks yield one copper nugget.",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "dependencies": {
     "game": "1.22.0"
   }

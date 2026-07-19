@@ -1,24 +1,46 @@
 [
   {
-    "__comment": "The output item and quantity are resolved in ItemNugget.OnCreatedByCrafting from the ore chunk attributes.",
-    "ingredientPattern": "H\tS",
+    "__comment": "Ea-Nasir ore chunks are game-domain variants of the vanilla graded ore item.",
+    "ingredientPattern": "H,S",
     "ingredients": {
       "H": {
         "type": "item",
-        "code": "hammer-*",
+        "code": "game:hammer-*",
         "isTool": true
       },
       "S": {
         "type": "item",
         "name": "ore",
-        "code": "eanasir-*-chunk"
+        "code": "game:ore-eanasir-*"
       }
     },
     "width": 1,
     "height": 2,
     "output": {
       "type": "item",
-      "code": "nugget-nativecopper",
+      "code": "game:nugget-nativecopper",
+      "quantity": 1
+    }
+  },
+  {
+    "ingredientPattern": "H,S",
+    "ingredients": {
+      "H": {
+        "type": "item",
+        "code": "game:hammer-*",
+        "isTool": true
+      },
+      "S": {
+        "type": "item",
+        "name": "ore",
+        "code": "game:crystalizedore-eanasir-*"
+      }
+    },
+    "width": 1,
+    "height": 2,
+    "output": {
+      "type": "item",
+      "code": "game:nugget-nativecopper",
       "quantity": 1
     }
   }
